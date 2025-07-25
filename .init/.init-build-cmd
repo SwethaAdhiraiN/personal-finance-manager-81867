@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-finance-manager-81867/personal_finance_tracker_database"
+}
